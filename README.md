@@ -1,4 +1,4 @@
-# Medication-Reminder-using-Medicine-Dispenser
+# Medication Reminder using Medicine Dispenser
 •	An audio and visual speaker to notify patient that medication has been dispensed.
 
 •	Firstly camera captures the prescription image and stores it with the database.
